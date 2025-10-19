@@ -1,0 +1,14 @@
+pandas
+openpyxl
+streamlit
+pdfplumber
+pytesseract
+pdf2image
+streamlit-lottie
+Pillow
+requests
+google-generativeai
+google-ai-generativelanguage
+langchain-google-genai
+langchain-community 
+faiss-cpu 
